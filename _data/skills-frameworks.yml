@@ -1,0 +1,30 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Java
+  weight: 4
+
+- name: React
+  weight: 4
+
+- name: Node
+  weight: 1
+
+- name: Python
+  weight: 2
+
+- name: Express
+  weight: 3
+
+- name: Go
+  weight: 3
+
+- name: Spring
+  weight: 4
+
+- name: C/C++
+  weight: 3
